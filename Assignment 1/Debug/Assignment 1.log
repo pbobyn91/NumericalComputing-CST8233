@@ -1,0 +1,8 @@
+﻿  assign1.c
+C:\Users\Pat\Desktop\Numerical Computing\Assignments\Assignment 1\Assignment 1\assign1.c(52,15): warning C4047:  '=': 'char' differs in levels of indirection from 'int (*)(void)'
+C:\Users\Pat\Desktop\Numerical Computing\Assignments\Assignment 1\Assignment 1\assign1.c(54,16): warning C4244:  '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\Pat\Desktop\Numerical Computing\Assignments\Assignment 1\Assignment 1\assign1.c(62,18): warning C4244:  '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\Pat\Desktop\Numerical Computing\Assignments\Assignment 1\Assignment 1\assign1.c(65,17): warning C4244:  '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\Pat\Desktop\Numerical Computing\Assignments\Assignment 1\Assignment 1\assign1.c(70,18): warning C4244:  '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\Pat\Desktop\Numerical Computing\Assignments\Assignment 1\Assignment 1\assign1.c(73,17): warning C4244:  '=': conversion from 'int' to 'char', possible loss of data
+  Assignment 1.vcxproj -> C:\Users\Pat\Desktop\Numerical Computing\Assignments\Assignment 1\Assignment 1\Debug\Assignment 1.exe
